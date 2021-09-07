@@ -3,7 +3,9 @@
 https://gist.github.com/lyfe00011/a497eba97dd1e82d8fa43c81cbf0fca8
 
 **TEXTPROME**
+https://gist.github.com/lyfe00011/2ef095df8c0eb2a9ce8dbae51c16fe3e
 
+### PHOTOOXY
 https://gist.github.com/lyfe00011/6834e168d53f0c9afb8497b0dc36d57f
 
 # OTHERS EXTERNAL PLUGIN
