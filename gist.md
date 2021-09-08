@@ -9,4 +9,4 @@
 [insane boy textpro](https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e)<br>
 [farhan photooxy](https://gist.github.com/farhan-dqz/935ced7e551df63e0bbd7fbe3ecd3535)<br>
 ### other plugins
-[mforward](https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0)<br>
+[mforward](https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0) : To forward multiple chats<br>
