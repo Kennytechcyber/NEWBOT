@@ -1,6 +1,5 @@
 # To create more text effect plugin 
-**EPHOTO**
-https://gist.github.com/lyfe00011/a497eba97dd1e82d8fa43c81cbf0fca8
+[**EPHOTO**](https://gist.github.com/lyfe00011/a497eba97dd1e82d8fa43c81cbf0fca8)<br>
 
 **TEXTPROME**
 https://gist.github.com/lyfe00011/2ef095df8c0eb2a9ce8dbae51c16fe3e
