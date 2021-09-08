@@ -12,7 +12,7 @@ https://gist.github.com/lyfe00011/6834e168d53f0c9afb8497b0dc36d57f
 
 ### more effect 
 [insane boy ephoto](https://gist.github.com/insanebwoi/ecc94966e4196565a6a87f355fa4c763)
-[insane boy textpro]https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e
+[insane boy textpro](https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e)
 [farhan photooxy](https://gist.github.com/farhan-dqz/935ced7e551df63e0bbd7fbe3ecd3535)
 
 ### other plugins
