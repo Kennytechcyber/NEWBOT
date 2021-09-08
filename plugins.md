@@ -8,5 +8,5 @@
 [insane boy ephoto](https://gist.github.com/insanebwoi/ecc94966e4196565a6a87f355fa4c763)<br>
 [insane boy textpro](https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e)<br>
 [farhan photooxy](https://gist.github.com/farhan-dqz/935ced7e551df63e0bbd7fbe3ecd3535)<br><br>
-> Other Plugins<br>
+> Other Plugins<br><br>
 [mforward](https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0) : To forward multiple chats<br>
