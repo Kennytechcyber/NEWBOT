@@ -10,3 +10,4 @@ insane boy textpro : https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df4
 farhan photooxy    : https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496/raw <br><br>
 > Other Plugins<br>
  To forward multiple chats : https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0 <br>
+ Anti link : https://gist.github.com/lyfe00011/2632a0310298bc2d0e0f2470490d1593 <br>
