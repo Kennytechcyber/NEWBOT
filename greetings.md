@@ -7,4 +7,5 @@ Greetings like welcome, goodbye and banbye can set in different ways
 ```Example : without mention and button => .welcome Hi welcome to * Group.
 Example : with mention => .welcome Hi `mention` welcome to * Group.
 Example : with mention and button => .welcome Hi `mention` welcome to * Group. `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
-Example : with button => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?```
+Example : with button => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+```
