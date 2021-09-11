@@ -1,5 +1,5 @@
 Greetings like welcome, goodbye and banbye can set in different ways
-
+``
 1. You can change greetings video by changed WELCOME or BANBYE or GOODBYE var
 2. You can also set a specific video for a group by setting WELCOMEJID or GOODBYEJID or BANBYEJID , While setting this You have to note onething that if setting one jid then you have to set two urls in WELCOME, similarily if you set two jid then three ulrs so on.
 
