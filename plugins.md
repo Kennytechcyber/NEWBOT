@@ -15,3 +15,4 @@ farhan photooxy    : https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2
  anti whatsapp link : https://gist.github.com/lyfe00011/d4903568940030aad37d3c9bc5077061 <br>
  set ANTIJID <br>
  news & lyrics : https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb <br>
+ subtitle : https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834
