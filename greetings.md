@@ -10,3 +10,4 @@ Example : with mention and button => .welcome Hi `mention` welcome to * Group. `
 Example : with button => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
 ```
 to delete => ```.welcome delete ```
+to get current greetings => ```.welcome```
