@@ -1,7 +1,9 @@
 Greetings like welcome, goodbye and banbye can set in different ways
-1. You can set greetings video by changing WELCOME or BANBYE or GOODBYE var<br>
+1. You can change greetings media(profile pic to image/video) by changing WELCOME or BANBYE or GOODBYE var<br>
 
-`Example WELCOME:url and WELCOME_JID:jid or`
+Example<br>`WELCOME:url` and `WELCOME_JID:jid`<br>
+url can be a video or image, jid is group's jid where the url's media has to.<br><br>
+for multiple groups<br>
 `WELCOME:url1,url2 and WELCOME_JID:jid1,jid2`
 
 3. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
