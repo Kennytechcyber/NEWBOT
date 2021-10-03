@@ -8,10 +8,11 @@ for multiple groups<br>
 
 3. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
 
-```Example : without mention and button => .welcome Hi welcome to * Group.
-Example : with mention => .welcome Hi `mention` welcome to * Group.
-Example : with mention and button => .welcome Hi `mention` welcome to * Group. `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
-Example : with button => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
 ```
-to delete => ```.welcome delete ```<br>
-to get current greetings => ```.welcome```
+Example : without mention and button    => .welcome Hi welcome to * Group.
+Example : with mention                  => .welcome Hi `mention` welcome to * Group.
+Example : with mention and button       => .welcome Hi `mention` welcome to * Group. `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+Example : with button                   => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+```
+to delete                => `.welcome delete `<br>
+to get current greetings => `.welcome`
