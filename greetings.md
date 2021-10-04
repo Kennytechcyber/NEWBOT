@@ -4,8 +4,15 @@ Greetings like welcome, goodbye and banbye can set in different ways
 Example<br>`WELCOME:url` and `WELCOME_JID:jid`<br>
 `url` can be a `video` or `image`, `jid` is `group's jid` where the `url's media` has to.<br><br>
 for multiple groups<br>
-`WELCOME:url1,url2 and WELCOME_JID:jid1,jid2`
-
+`WELCOME:url1,url2 and WELCOME_JID:jid1,jid2`<br><br>
+2. If no need welcome media(video/image/profile pic) then add that group jid in WELCOME_JID<br>
+Example<br>
+WELCOME:false<br>
+WELCOME_JID:jid1<br>
+or<br>
+WELCOME :url1,url2<br>
+WELCOME_JID :jid1,jid2,jid3<br>
+where here jid3 is group that no needs any media<br>
 3. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
 
 ```
