@@ -12,7 +12,7 @@ WELCOME_JID:jid1<br>
 or<br>
 WELCOME :url1,url2<br>
 WELCOME_JID :jid1,jid2,jid3<br>
-where here jid3 is group that no needs any media<br>
+where here jid3 is group that no needs any media<br><br>
 3. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
 
 ```
