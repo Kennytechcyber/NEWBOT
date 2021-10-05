@@ -7,7 +7,7 @@ take new session by scanning QR<br>
 change ASENA_SESSION with new session and<br>
 set CLR_SESSION = true then after Successful login<br>
 set CLR_SESSION = false <br><br>
-* Change ALIVE message
+* **Change ALIVE message ?**
 setvar ALIVE_MSG: Do not take life too seriously.<br>
 if you want image or video in alive message then<br>
 set ALIVE_URL = https://i.pinimg.com/736x/89/96/d2/8996d212b2cb35d5fc18898a78cad391--heart-love.jpg
