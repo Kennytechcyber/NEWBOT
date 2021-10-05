@@ -10,3 +10,6 @@
 
 
 <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/plugins"><img src="https://img.shields.io/badge/plugins-9cf?style=for-the-badge&logo=appveyor%22"/></a>
+
+
+<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/FAQ"><img src="https://img.shields.io/badge/FAQ-red?style=for-the-badge&logo=appveyor%22"/></a>
