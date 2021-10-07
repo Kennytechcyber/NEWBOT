@@ -10,4 +10,11 @@ set CLR_SESSION = false <br><br>
 * **Change ALIVE message ?**<br>
 setvar ALIVE_MSG: Don't take life too seriously.<br>
 if you want image or video in alive message then<br>
-set ALIVE_URL = https://i.pinimg.com/736x/89/96/d2/8996d212b2cb35d5fc18898a78cad391--heart-love.jpg
+set ALIVE_URL = https://i.pinimg.com/736x/89/96/d2/8996d212b2cb35d5fc18898a78cad391--heart-love.jpg<br><br>
+* **How enable anti link ?**<br>
+install anti link plugin<br>
+add group jid in ANTIJID
+example ANTIJID = 987654321-1689238292@g.us<br>
+also can allow urls in group by adding<br>
+URLS in ALLOWED_URLS<br>
+example ALLOWED_URLS = fb.com,facebook.com,chat.whatsapp.com,instagram.com
