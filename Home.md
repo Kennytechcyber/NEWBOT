@@ -14,4 +14,4 @@
 
 <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/FAQ"><img src="https://img.shields.io/badge/FAQ-red?style=for-the-badge&logo=appveyor%22"/></a>
 
-<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/change-log"><img src="https://img.shields.io/badge/change%20log-violetgreen?style=?style=social&logo=appveyor%22"/></a>
+<a href="https://github.com/lyfe00011/whatsapp-bot/wiki/change-log"><img src="https://img.shields.io/badge/change%20log-grey?style=?style=social&logo=appveyor%22"/></a>
