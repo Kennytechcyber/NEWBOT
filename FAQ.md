@@ -17,4 +17,6 @@ add group jid in ANTIJID
 example ANTIJID = 987654321-1689238292@g.us<br>
 also can allow urls in group by adding<br>
 URLS in ALLOWED_URLS<br>
-example ALLOWED_URLS = fb.com,facebook.com,chat.whatsapp.com,instagram.com
+example ALLOWED_URLS = fb.com,facebook.com,chat.whatsapp.com,instagram.com<br><br>
+* **How to change sticker pack info ?**<br>
+`setvar STICKER_PACKNAME: name,author` OR `STICKER_PACKNAME = name,author` in heroku settings
