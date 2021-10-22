@@ -1,19 +1,10 @@
 Greetings like welcome, goodbye and banbye can set in different ways
-1. You can change greetings media(profile pic to image/video) by changing WELCOME or BANBYE or GOODBYE var<br>
-
-Example<br>`WELCOME:url` and `WELCOME_JID:jid`<br>
-`url` can be a `video` or `image`, `jid` is `group's jid` where the `url's media` has to.<br><br>
-for multiple groups<br>
-`WELCOME:url1,url2 and WELCOME_JID:jid1,jid2`<br><br>
-2. If no need welcome media(video/image/profile pic) then add that group jid in WELCOME_JID<br>
-Example<br>
-WELCOME:false<br>
-WELCOME_JID:jid1<br>
-or<br>
-WELCOME :url1,url2<br>
-WELCOME_JID :jid1,jid2,jid3<br>
-where here jid3 is group that no needs any media<br><br>
-3. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
+1. To set image or video or profile pic<br>
+```
+Example: .welcome Hi `pp` for profile pic of joined or added.
+Example: .welcome Hi https://i.pinimg.com/736x/8f/02/ea/8f02ea3c223cd3170176d3f180d464f2.jpg
+```
+2. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
 
 ```
 Example : without mention and button    => .welcome Hi welcome to * Group.
