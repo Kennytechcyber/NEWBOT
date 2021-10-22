@@ -6,3 +6,4 @@ added antilink <br>
 added antifake <br>
 added antubad <br>
 updated alive <br>
+updated welcome,banbye,goodbye
