@@ -5,3 +5,4 @@ removed WELCOME,GOODBYE,BANBYE,WELCOME_JID,GOODBYE_JID,BANBYE_JID,ANTIJID,ALIVE_
 added antilink <br>
 added antifake <br>
 added antubad <br>
+updated alive <br>
