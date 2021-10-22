@@ -38,3 +38,8 @@ setvar STICKER_PACKNAME: name,author
 OR
 STICKER_PACKNAME = name,author in heroku settings
 ```
+* **What is difference between banbye and goodbye ?**
+```
+BANBYE is when kicking from group.
+GOODBYE is when left from group.
+```
