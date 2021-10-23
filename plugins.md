@@ -7,7 +7,7 @@
  1.  Text Effects <br>
  > 1. insane boy ephoto  : https://gist.github.com/insanebwoi/ecc94966e4196565a6a87f355fa4c763<br>
  > 2. insane boy textpro : https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e<br>
- > 3. farhan photooxy    : https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496/raw <br><br>
+ > 3. farhan photooxy    : https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496 <br><br>
  2.   Other Plugins<br>
  * mforward : https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0 <br>
  * antiwhatsapp : https://gist.github.com/lyfe00011/d4903568940030aad37d3c9bc5077061 <br>
