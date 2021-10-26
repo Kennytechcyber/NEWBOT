@@ -43,3 +43,8 @@ STICKER_PACKNAME = name,author in heroku settings
 BANBYE is when kicking from group.
 GOODBYE is when left from group.
 ```
+* **How to use mention ?**
+```
+Example: .mention on to enable
+Example: .mention hello to update mention message
+```
