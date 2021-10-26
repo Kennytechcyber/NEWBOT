@@ -48,3 +48,11 @@ GOODBYE is when left from group.
 Example: .mention on to enable
 Example: .mention hello to update mention message
 ```
+* **How to set HANDLERS free ?**
+```
+Example: .setvar HANDLERS:false
+```
+* **How to change prefix or HANDLERS ?**
+```
+Example: .setvar HANDLERS:^[.!,]
+```
