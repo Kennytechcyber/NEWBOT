@@ -39,3 +39,4 @@
 * added HANDLERS free option <br>
 * added help plugin <br>
 * fixed wired issues with greetings <br>
+* rename ipl to score
