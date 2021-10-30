@@ -13,10 +13,8 @@
 * fix antibad issues <br>
 * fix warn url issue <br>
 * added banners <br>
-
   >jail<br>
   >mission<br>
-
 * added photo editor plugin <br>
   >cartoon<br>
   >makeup<br>
@@ -30,3 +28,14 @@
   >pencil<br>
   >sketch<br>
   >skull<br>
+
+### 1.0.8
+* updated language <br>
+* added mention plugin <br>
+* updated meme <br>
+* added fancy plugin <br>
+* added apk plugin <br>
+* added strs plugin <br>
+* added HANDLERS free option <br>
+* added help plugin <br>
+* fixed wired issues with greetings <br>
