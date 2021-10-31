@@ -56,3 +56,9 @@ Example: .setvar HANDLERS:false
 ```
 Example: .setvar HANDLERS:^[.!,]
 ```
+* **What about BAN?** 
+```
+Don't use bot in way that against WhatsApp policies.
+Don't use add command in fake number and better don't use it often.
+Don't use forward or broadcast to too much jids.
+```
