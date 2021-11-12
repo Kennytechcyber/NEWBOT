@@ -40,3 +40,11 @@
 * added help plugin <br>
 * fixed wired issues with greetings <br>
 * rename ipl to score
+* added tic tac toe game plugin
+
+### 2.0.1
+* changed whatsapp web to multi device
+* removed video and replaced with ytv
+* removed unvoice,voice and replaced with mp3
+* removed attp,movie,score,sysd,wallpaper,strs
+*
