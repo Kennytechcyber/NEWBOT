@@ -44,6 +44,7 @@
 
 ### 2.0.1
 * changed whatsapp web to multi device
+* removed some info messages
 * removed video and replaced with ytv
 * removed unvoice,voice and replaced with mp3
 * removed attp,movie,score,sysd,wallpaper,strs
