@@ -48,4 +48,5 @@
 * removed video and replaced with ytv
 * removed unvoice,voice and replaced with mp3
 * removed attp,movie,score,sysd,wallpaper,strs
+* added AUTO_UPDATE
 *
