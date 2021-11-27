@@ -42,6 +42,10 @@
 * rename ipl to score
 * added tic tac toe game plugin
 
+### 1.1.0
+* added avm PLUGIN to merge audio and video
+* added support to download from google image search share link
+
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
