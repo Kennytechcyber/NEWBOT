@@ -14,7 +14,7 @@ set CLR_SESSION = false
 ```
 * **Change ALIVE message ?**<br>
 ```
-Example: .alive Hi for text only
+Example: .alive Hey I'm running for #uptime for text only
 Example: .alive Hi https://i.pinimg.com/736x/89/96/d2/8996d212b2cb35d5fc18898a78cad391--heart-love.jpg for image or video
 ```
 * **How enable anti link ?**<br>
