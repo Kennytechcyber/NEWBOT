@@ -47,6 +47,9 @@
 * added support to download from google image search share link
 * added #uptime to alive message
 
+### 1.1.1
+*fix avm
+
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
