@@ -48,11 +48,11 @@
 * added #uptime to alive message
 
 ### 1.1.1
-*fix avm
+* fix avm
 
 ### 1.1.2
-*added yta plugin
-*now u can use keywords instead yt link in ytv, yta
+* added yta plugin
+* now u can use keywords instead yt link in ytv, yta
 
 ### 2.0.1
 * changed whatsapp web to multi device
