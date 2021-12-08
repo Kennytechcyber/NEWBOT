@@ -34,7 +34,9 @@ Example: .antibad word1,word2 // for adding words.
 ```
 ### **How to change sticker pack info ?**<br>
 ```
-setvar STICKER_PACKNAME: name,author
+setvar STICKER_PACKNAME: name,author // with name and author
+setvar STICKER_PACKNAME: name // only name
+setvar STICKER_PACKNAME: false // no pack info
 OR
 STICKER_PACKNAME = name,author //in heroku settings
 ```
