@@ -54,6 +54,11 @@
 * added yta plugin
 * now u can use keywords instead yt link in ytv, yta
 
+### 1.1.3
+* update take command 
+  Example .take name or name,author // else default in vars
+* updated https://github.com/lyfe00011/whatsapp-bot/wiki/FAQ#how-to-change-sticker-pack-info-
+
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
