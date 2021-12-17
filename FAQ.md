@@ -64,3 +64,8 @@ Don't use bot in way that against WhatsApp policies.
 Don't use add command in fake number and better don't use it often.
 Don't use forward or broadcast to too much jids.
 ```
+### **Delete Broadcast**
+```
+You can't delete Broadcast once created
+but you can update jids (use same name and create as new one)
+```
