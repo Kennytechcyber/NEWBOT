@@ -9,8 +9,9 @@
  > 2. insane boy textpro : https://gist.github.com/insanebwoi/12d767a4b77fa40e1f725df47cd4808e<br>
  > 3. farhan photooxy    : https://gist.githubusercontent.com/farhan-dqz/9dc5521111ba2e1b8b893e53d7cb9496 <br><br>
  2.   Other Plugins<br>
- * mforward : https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0 <br>
+ * custom-forward : https://gist.github.com/lyfe00011/467a2e45f4e36b8bb4782ee8da573ca0 <br>
  * news & lyrics : https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb <br>
- * subtitle : https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834 <br>
+ * download - subtitle : https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834 <br>
  * simple menu : https://gist.github.com/SPARK-SHADOW/3c61545d8a2e132a0ecc71d35f04f322
- * status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
+ * copy-status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
+ * anti-viewOnce : https://gist.github.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0
