@@ -69,3 +69,10 @@ Don't use forward or broadcast to too much jids.
 You can't delete Broadcast once created
 but you can update jids (use same name and create as new one)
 ```
+
+### **Can I block or disable bot in specific chat?**
+```
+.setvar DISABLE_BOT:jid1,jid2...
+or
+DISABLE_BOT = jid1,jid2,jid3,... in heroku app settings var
+```
