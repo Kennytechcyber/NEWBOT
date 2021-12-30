@@ -16,3 +16,4 @@
  * copy-status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
  * anti-viewOnce : https://gist.github.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0 
  * time : https://gist.github.com/lyfe00011/20cccb25c03652ff068eb471181691d1
+ * doc-send as doc msg : https://gist.github.com/lyfe00011/ca1d9edf4ae2af7ad08f079f10da4d22
