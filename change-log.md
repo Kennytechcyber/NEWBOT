@@ -63,6 +63,22 @@
 * removed voice,unvoice command
 * updated mp3 command 
 * fix
+### 1.2.0
+* updated invite, to get link info (invite group link)
+* updated deploy step
+* added steps to take remove.bg api key
+* updated upload
+* updated plugin, can install more than one at a time
+* updated plugin, can get a installed plugin url (plugin nameOfInstalledPlugin)
+* fixed song
+* added image count to img
+* fix admin and heroku commands
+* added news plugin (malayalam)
+* added new discussion group link
+* updated remove, can deleted all plugin (remove all)
+* updated join
+* uploaded new deploy video in youtube
+
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
