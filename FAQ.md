@@ -58,6 +58,7 @@ Example
 .mention url type/mp4 caption
 .mention url type/audio 
 
+can add multiple urls (randomly send)
 ```
 ### **How to set HANDLERS free ?**
 ```
