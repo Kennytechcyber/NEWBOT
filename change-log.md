@@ -80,7 +80,8 @@
 * uploaded new deploy video in youtube
 ### 1.2.1
 * fix mention need to restart.
-* now can set mention reply as gif,mp4,image,audio,sticker,text
+* now can set mention reply as gif, mp4, image, audio, sticker, text.
+* error message will send to sudo if exist.
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
