@@ -78,7 +78,9 @@
 * updated remove, can deleted all plugin (remove all)
 * updated join
 * uploaded new deploy video in youtube
-
+### 1.2.1
+* fix mention need to restart.
+* now can set mention reply as gif,mp4,image,audio,sticker,text
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
