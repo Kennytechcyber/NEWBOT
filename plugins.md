@@ -20,3 +20,4 @@
  * button : https://gist.github.com/lyfe00011/1df704a43dc82513679020d701b63767
  * doc : https://gist.github.com/lyfe00011/ca1d9edf4ae2af7ad08f079f10da4d22
  * sudo : https://gist.github.com/lyfe00011/9aa68a52481c439fd6aee2958a7833a3
+ * calc : https://gist.github.com/lyfe00011/e420fa9752ca66cb611474de214e83ee/raw
