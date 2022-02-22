@@ -16,6 +16,7 @@
  * simple menu : https://gist.github.com/SPARK-SHADOW/2633547513e2fa88e9af5296961598b2
  * copy-status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
  * anti-viewOnce : https://gist.github.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0 
+ * caption : https://gist.github.com/lyfe00011/581702e4bb93186c7730cbc18dfe1d98
  * time : https://gist.github.com/lyfe00011/20cccb25c03652ff068eb471181691d1
  * button : https://gist.github.com/lyfe00011/1df704a43dc82513679020d701b63767
  * doc : https://gist.github.com/lyfe00011/ca1d9edf4ae2af7ad08f079f10da4d22
