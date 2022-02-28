@@ -23,3 +23,4 @@
  * sudo : https://gist.github.com/lyfe00011/9aa68a52481c439fd6aee2958a7833a3
  * calc : https://gist.github.com/lyfe00011/e420fa9752ca66cb611474de214e83ee/raw
  * jean : https://gist.github.com/lyfe00011/4d5c4b2a71930b66e829182f632ab9c8
+ * play : https://gist.github.com/lyfe00011/ffc1d10b63154bc3870717d2ab7ffcf0
