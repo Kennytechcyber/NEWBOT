@@ -82,6 +82,12 @@
 * fix mention need to restart.
 * now can set mention reply as gif, mp4, image, audio, sticker, text.
 * error message will send to sudo if exist.
+### 1.2.7
+* added msgs,inactive,black
+* fix
+* added audio to take
+* fancy with choice
+* wallpaper with button
 ### 2.0.1
 * changed whatsapp web to multi device
 * removed some info messages
