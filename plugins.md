@@ -14,7 +14,7 @@
  * lyrics : https://gist.github.com/lyfe00011/65d640c9919779a9d9d7288c1e8f8cfb <br>
  * download - subtitle : https://gist.github.com/lyfe00011/ef753048e046495b7fdb04747299b834 <br>
  * simple menu : https://gist.github.com/SPARK-SHADOW/2633547513e2fa88e9af5296961598b2
- * copy-status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
+ * save-status : https://gist.github.com/lyfe00011/9eb73064a19e28d9b5eb1960975b5ae5
  * anti-viewOnce : https://gist.github.com/lyfe00011/582ff0b2f2e61cc0cf4ea48084d52cb0 
  * caption : https://gist.github.com/lyfe00011/581702e4bb93186c7730cbc18dfe1d98
  * time : https://gist.github.com/lyfe00011/20cccb25c03652ff068eb471181691d1
@@ -24,3 +24,4 @@
  * calc : https://gist.github.com/lyfe00011/e420fa9752ca66cb611474de214e83ee/raw
  * jean : https://gist.github.com/lyfe00011/4d5c4b2a71930b66e829182f632ab9c8
  * play : https://gist.github.com/lyfe00011/ffc1d10b63154bc3870717d2ab7ffcf0
+ * text : https://gist.github.com/lyfe00011/0cdaab914811d3e88f2357e7cd1deac2
