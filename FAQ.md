@@ -60,13 +60,12 @@ Example
 
 can add multiple urls (randomly send)
 ```
-### **How to set HANDLERS free ?**
-```
-Example: .setvar HANDLERS:false
-```
 ### **How to change prefix or HANDLERS ?**
 ```
-Example: .setvar HANDLERS:^[.!,]
+Example: .setvar HANDLERS:^[.!,] // to set prefix . and ! and ,
+         .setvar Handlers:false  // to remove prefix or to use without handler
+         .setvar handlers:bot    // to set prefix as bot 
+         .setvar handlers:🙂     // to use 🙂 as handler or prefix
 ```
 ### **What about BAN?** 
 ```
