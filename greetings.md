@@ -12,6 +12,14 @@ Example : without mention and button    => .welcome Hi welcome to * Group.
 Example : with mention                  => .welcome Hi `mention` welcome to * Group.
 Example : with mention and button       => .welcome Hi `mention` welcome to * Group. `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
 Example : with button                   => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+
+#size // last joined member count or total size of group when joined
+#desc // group description
+#onwer // group owner
+#name // group name
+                                        => .welcome Hi `mention`, welcome to #name
+
+Of Course you can combine all this together, like button #blah mention ... 
 ```
 to delete                => `.welcome delete `<br>
 to get current greetings => `.welcome`
