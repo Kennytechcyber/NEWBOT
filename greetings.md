@@ -8,16 +8,23 @@ for image or video in welcome or banbye or goodbye
 2. Now about the message, You can set welcome message in 4 different ways like a message without mention or buttons, with mention , with mention and button , button only.
 
 ```
-Example : without mention and button    => .welcome Hi welcome to * Group.
-Example : with mention                  => .welcome Hi `mention` welcome to * Group.
-Example : with mention and button       => .welcome Hi `mention` welcome to * Group. `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
-Example : with button                   => .welcome Hi welcome to * Group `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+Example : without mention and button 
+=> .welcome Hi welcome to #name.
+
+Example : with mention 
+=> .welcome Hi `mention` welcome to #name.
+
+Example : with mention and button 
+=> .welcome Hi `mention` welcome to #name. #desc `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+
+Example : with button
+=> .welcome Hi welcome to #name `button/Hello` `button/Hi` `header/#desc
+members : #size`
 
 #size // last joined member count or total size of group when joined
 #desc // group description
 #onwer // group owner
 #name // group name
-                                        => .welcome Hi `mention`, welcome to #name
 
 Of Course you can combine all this together, like button #blah mention ... 
 ```
