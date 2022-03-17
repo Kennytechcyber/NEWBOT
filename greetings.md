@@ -15,7 +15,7 @@ Example : with mention
 => .welcome Hi `mention` welcome to #name.
 
 Example : with mention and button 
-=> .welcome Hi `mention` welcome to #name. #desc `button/I'm fine` `button/I'm ok` `button/Not Bad` `header/How are you?`
+=> .welcome Hi `mention` #desc `button/Thanks` `header/welcome to #name`
 
 Example : with button
 => .welcome Hi welcome to #name `button/Hello` `button/Hi` `header/#desc
